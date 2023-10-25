@@ -149,8 +149,9 @@ a {
 .card_text{
     font-size: 13px;
     font-style:italic;   
+    font-weight: 600; 
 }
 .card_text2{
-    font-size: 75%;   
-     
+    font-size: 75%;  
+    font-weight: 600;      
 }
